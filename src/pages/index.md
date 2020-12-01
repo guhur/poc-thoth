@@ -1,21 +1,15 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Thoth Team at INRIA
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Modeling visual knowledge from large-scale data 
+subheading: Modeling visual knowledge from large-scale data 
 mainpitch:
-  title: Why Kaldi
+  title: Modeling visual knowledge from large-scale data 
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Thoth is motivated by today's context in which the quantity of digital images and videos available on-line continues to grow at a phenomenal speed. The main objectives of the team are: (i) designing and learning structured models capable of representing this visual information; (ii) learning visual models from minimal supervision or unstructured meta-data; and (iii) large-scale learning and optimization. An additional focus of Thoth is on collection of appropriate datasets and design of accompanying evaluation protocols. 
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    Thoth is a joint team of Inria and Laboratoire Jean Kuntzmann, and started in January 2016. It is a follow up to the LEAR team (2003-2015). 
 intro:
   blurbs:
     - image: /img/coffee.png
